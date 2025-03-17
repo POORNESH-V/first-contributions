@@ -72,6 +72,7 @@
 - [Vanlal Peka](https://github.com/vanlalpeka)
 - [Joselyn Riana](https://github.com/joselynrianaaa)
 - [John](https://github.com/yrdnal-c-nhoj)
+- [Poornesh V](https://github.com/POORNESH-V)
 - [Sreekutty Kottukkal Ajamalan](https://github.com/sreekutty-434)
 - [Matthew Romero](https://github.com/matmatromero)
 - [Mercy-Mbao ✨](https://github.com/mercie-ux)
